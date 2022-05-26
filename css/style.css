@@ -1,0 +1,98 @@
+#nav-tab{
+background-color:#646FD4;
+}
+.white-text{
+color:#fff;
+font-family: "Montserrat-bold";
+
+}
+.lead {
+font-size: 1.25rem;
+font-weight: 300;
+}
+.bio{
+color: rgb(61, 61, 52);
+font-family: "Montserrat-black";
+}
+.main-heading{
+padding:auto 5%;
+}
+.mb-3 {
+margin-bottom: 1rem !important;
+}
+.black-text{
+text-align: center;
+color: black;
+font-family: "Montserrat-bold";
+
+
+}
+.nav-link{
+color: #fff;
+}
+#profile{
+background-color:#92B4EC;
+}
+.profile-img
+{
+width: 65%;
+
+margin-left: 16%;
+
+}
+.profile-heading{
+padding: 5% 3%;
+}
+.grey-box{
+background-color: gainsboro;
+}
+.skill-icon{
+
+
+position: absolute;
+background: #41a4f5;
+width: 66px;
+height: 66px;
+padding-top: 1.25rem;
+top: -36px;
+left: 52%;
+margin-left: -40px;
+border-radius: 50%;
+
+}
+.skills-text{
+padding: 16%;
+font-family: "Montserrat-bold";
+}
+.spacing-elements{
+padding: 4% 5%;
+}
+.card{
+height: 90%;
+
+}
+#footer{
+text-align: center;
+}
+#projects{
+background-color: #628fd8;
+}
+.project-img {
+width: 10%;
+border-radius: 100%;
+margin: 20px;
+margin-left:41%;
+
+
+}
+.project-text {
+margin: auto 10%;
+text-align: center;
+
+}
+a:hover{
+color: black;
+}
+.text-space{
+padding: 2%;
+}
